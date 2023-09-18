@@ -1,6 +1,13 @@
 # Sprint03-Edge
 
+----------------------------------------------------------------------------
 
+Integrantes:
+
+Filipe Prado Menezes / RM: 98765
+Gabriel Gomes Catanzaro / RM: 93445
+Pedro Henrique Salvitti / RM: 88166
+Lucas Gomes Alcantara / RM: 98766
 
 ----------------------------------------------------------------------------
 
