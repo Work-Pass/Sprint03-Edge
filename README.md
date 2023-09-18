@@ -11,6 +11,12 @@ Lucas Gomes Alcantara / RM: 98766
 
 ----------------------------------------------------------------------------
 
+Link do video:
+
+https://youtu.be/cmT4lsS0cRY
+
+----------------------------------------------------------------------------
+
 Código:
 // Defina os pinos do sensor ultrassônico
 const int triggerPin = 2;
